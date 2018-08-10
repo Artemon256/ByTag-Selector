@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899-12-30 00:00:00.000.440,C:\Users\artem\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projects\Delphi\ByTag Selector\ByTagSelector.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.198,C:\Users\artem\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projects\Delphi\ByTag Selector\MainForm.dfm</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.198,C:\Users\artem\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projects\Delphi\ByTag Selector\MainForm.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.265,=C:\Users\artem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,D:\Projects\Delphi\ByTag Selector\MainForm.pas=C:\Users\artem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,D:\Projects\Delphi\ByTag Selector\MainForm.dfm=C:\Users\artem\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,D:\Projects\Delphi\ByTag Selector\ByTagSelector.dproj=C:\Users\artem\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,=C:\Users\artem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
